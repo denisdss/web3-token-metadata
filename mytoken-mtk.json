@@ -1,6 +1,6 @@
 {
-    "name": "MyToken",
-    "symbol": "MTK",
+    "name": "ICE Cat",
+    "symbol": "ICECAT",
     "decimals": 18,
     "description": "A sample ERC-20 token with metadata",
     "image": "https://raw.githubusercontent.com/denisdss/web3-token-metadata/refs/heads/main/icecat.png",
